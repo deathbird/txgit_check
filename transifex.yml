@@ -5,4 +5,4 @@ git:
         source_file_extension: json
         source_language: pt-BR
         source_file_dir: 'src/i18n/content/pt-br'
-        translation_files_expression: 'src/i18n/content/<lang>'
+        translation_files_expression: 'trans/i18n/content/<lang>/'
